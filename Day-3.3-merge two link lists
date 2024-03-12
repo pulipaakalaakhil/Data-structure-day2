@@ -64,7 +64,7 @@ void display(struct Node* head) {
 }
 
 int main() {
-    printf("192324112-sree ruthin reddy\n");
+    printf("192373024_Akhilkumar\n");
     struct Node* list1 = createNode(1);
     list1->next = createNode(3);
     list1->next->next = createNode(5);
